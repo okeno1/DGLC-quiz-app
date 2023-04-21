@@ -1,0 +1,1 @@
+QUIZ APP - Enables users to login to their accounts and participate in a quiz project
